@@ -1,43 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="FX FHD">
-    <display-name lang="pt">FX FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="FX HD">
-    <display-name lang="pt">FX HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
   <channel id="FX SD">
     <display-name lang="pt">FX SD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix 4K FHDR">
-    <display-name lang="pt">Megapix 4K FHDR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix FHD">
-    <display-name lang="pt">Megapix FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix HD">
-    <display-name lang="pt">Megapix HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix SD">
-    <display-name lang="pt">Megapix SD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Action FHD">
-    <display-name lang="pt">Telecine Action FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Action HD">
-    <display-name lang="pt">Telecine Action HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Action SD">
-    <display-name lang="pt">Telecine Action SD</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
